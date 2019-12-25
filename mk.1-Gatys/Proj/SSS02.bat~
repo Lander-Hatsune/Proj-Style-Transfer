@@ -1,0 +1,1 @@
+K.py ./1/1.jpg ./s/sn.jpg --style_weight 50 ./1/01

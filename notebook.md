@@ -1,0 +1,2 @@
+- th : channels first
+- tf : channels last
